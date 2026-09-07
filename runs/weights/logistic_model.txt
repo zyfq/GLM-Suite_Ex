@@ -1,0 +1,18 @@
+{
+  "model_type": "LogisticRegression",
+  "weights": {
+    "weight_1": 8.374647556497623,
+    "weight_2": 4.561225148945557
+  },
+  "bias": -6.941177677554203,
+  "normalization": {
+    "feature_minimum": {
+      "feature_1": 18.0,
+      "feature_2": 15000.0
+    },
+    "feature_maximum": {
+      "feature_1": 60.0,
+      "feature_2": 149000.0
+    }
+  }
+}
